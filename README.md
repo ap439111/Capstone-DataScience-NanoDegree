@@ -11,7 +11,7 @@ This capstone project to complete the Udacity's Data Science Nanodegree Program.
 
 <a name="project_motivation"></a>
 ## Project Motivation
-This capstone project to complete the Udacity's Data Science Nanodegree Program. Starbucks has provided the simulated data that mimics the customers' behavior on different kinds of rewards sent through the mobile app. I have developed a machine learning model to 1) find the offer that a customer ends up un buying the products. 2) find the customer who buys the product without the influence of the offer. The description of the entire process adopted can be found in the file ** project_capstone**.
+This capstone project to complete the Udacity's Data Science Nanodegree Program. Starbucks has provided the simulated data that mimics the customers' behavior on different kinds of rewards sent through the mobile app. I have developed a machine learning model to 1) find the offer that a customer ends up un buying the products. 2) find the customer who buys the product without the influence of the offer. The description of the entire process adopted can be found in the file **  project_capstone **.
 
 <a name="files_descriptions"></a>
 ## Files Descriptions

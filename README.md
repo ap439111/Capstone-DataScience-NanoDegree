@@ -23,4 +23,6 @@ The enitre process adopted are carried out in four notebooks.
         3.  EDA.ipynb: Exploratory data analysis of the cleaned data is carried out in this notebook.
         4.  Data_modeling: Data scaling and machine learning models are trained in this notebook
         
-        The data files are explained in details in the notebooks as well as in the **project_capstone** file.
+        The data files are explained in details in the notebooks as well as in the project_capstone file.
+
+Step-by-step description of the entire process adopted in the project is explained in the file **project_capstone**.

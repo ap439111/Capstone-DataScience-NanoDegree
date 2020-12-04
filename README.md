@@ -7,7 +7,9 @@ This capstone project to complete the Udacity's Data Science Nanodegree Program.
 
 1. [Project Motivation](#project_motivation)
 2. [Files Descriptions](#files_descriptions)
-3. [Acknowledgement](#acknowledgement)
+3. [Python Libraries](#python_libraries)
+4. [Results Summary](#results_summary)
+5. [Acknowledgement](#acknowledgement)
 
 <a name="project_motivation"></a>
 ## Project Motivation

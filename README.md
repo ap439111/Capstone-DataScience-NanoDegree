@@ -34,8 +34,8 @@ Step-by-step description of the entire process adopted in the project is explain
 ## Python Libraries
 
 The following python libraries are required to run the notebooks:
-
-        > Pandas
+        
+	> Pandas
 	> Numpy
 	> Scikit-learn
 	> Keras
@@ -48,12 +48,11 @@ The following python libraries are required to run the notebooks:
 
 I have tried the following five models and considered the model **accuracy** score as the metric to evaluate the model quality.
 
-
-            i. Neural Network: This model is considered as a benchmark and all the other models’ performance is compared with it.
-	   ii. Decision Tree Classifie
-          iii. K-nearest Neighbors
-	   iv. Random Forest
-	    v. Support Vector Machine
+    i. Neural Network: This model is considered as a benchmark and all the other models’ performance is compared with it.
+    ii. Decision Tree Classifie
+    iii. K-nearest Neighbor
+    iv. Random Forest
+    v. Support Vector Machine
 	    
 The features used in training the models are a reward, difficulty, offer_duration_hrs, BOGO, discount, informational, mobile, social, web, age_group, became_member_on, income, income_group, F, M, N, O.
 

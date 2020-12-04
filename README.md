@@ -26,3 +26,8 @@ The enitre process adopted are carried out in four notebooks.
         The data files are explained in details in the notebooks as well as in the project_capstone file.
 
 Step-by-step description of the entire process adopted in the project is explained in the file **project_capstone**.
+
+<a name="acknowledgement"></a>
+## Acknowledgement
+* We want to thank [Udacity](https://www.udacity.com/) for this project and **Starbucks** for the data sets.
+

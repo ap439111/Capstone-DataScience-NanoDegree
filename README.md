@@ -9,7 +9,8 @@ This capstone project to complete the Udacity's Data Science Nanodegree Program.
 2. [Files Descriptions](#files_descriptions)
 3. [Python Libraries](#python_libraries)
 4. [Results Summary](#results_summary)
-5. [Acknowledgement](#acknowledgement)
+5. [License](#license)
+6. [Acknowledgement](#acknowledgement)
 
 <a name="project_motivation"></a>
 ## Project Motivation
@@ -32,13 +33,23 @@ Step-by-step description of the entire process adopted in the project is explain
 <a name="python_libraries"></a>
 ## Python Libraries
 
+The following python libraries are required to run the notebooks:
+
+        > Pandas
+	> Numpy
+	> Scikit-learn
+	> Keras
+	> Matplotlib
+	> Seaborn
+	> json, maths, timeit
+	
 <a name="results_summary"></a>
 ## Results Summary
 
 I have tried the following five models and considered the model **accuracy** score as the metric to evaluate the model quality.
 
 
-           i.  Neural Network: A simple feed-forward neural network (NN) has been implemented to classify the response to the offers. This model is considered     			as a benchmark and all the other models’ performance is compared with it.
+            i. Neural Network: This model is considered as a benchmark and all the other models’ performance is compared with it.
 	   ii. Decision Tree Classifie
           iii. K-nearest Neighbors
 	   iv. Random Forest
@@ -60,6 +71,11 @@ Out of the two refined models, I have taken the **Random Forest** as the best cl
 For the nature of the problem chosen and the given data sets, we are convinced that the final model reached a good accuracy. The customers’ behavior for an offer can be varying and that could be a reason for the model to have medium accuracy.
 
 The details are explained in the file **project_capstone.pdf** and a [bolgpost](https://anup-pandey123.medium.com/starbucks-capstone-challenge-4a763b207985).
+
+<a name="license"></a>
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 <a name="acknowledgement"></a>
 ## Acknowledgement

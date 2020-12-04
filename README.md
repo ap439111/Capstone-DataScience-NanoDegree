@@ -35,6 +35,16 @@ Step-by-step description of the entire process adopted in the project is explain
 <a name="results_summary"></a>
 ## Results Summary
 
+I have tried the following five models and considered the model **accuracy** score as the metric to evaluate the model quality.
+           i.  **Neural Network**: A simple feed-forward neural network (NN) has been implemented to classify the response to the offers. This model is considered     			as a benchmark and all the other models’ performance is compared with it.
+	   ii. ***Decision Tree Classifier**
+          iii. **K-nearest Neighbors**
+	   iv. **Random Forest**
+	    v. **Support Vector Machine**
+	    
+The features used in training the models are a reward, difficulty, offer_duration_hrs, BOGO, discount, informational, mobile, social, web, age_group, became_member_on, income, income_group, F, M, N, O.
+
+
 All the five models described above are trained on the training set and evaluated on the testing set. The size of the training set is 53393 and the testing set is 2284. The comparison of the models’ accuracy is shown in the table below. 
 The benchmark model neural network has a training and testing accuracy of ~64%. Decision Tree has a training accuracy of 94.64% and a testing accuracy of 57.77%. Similarly, K-Nearest Neighbor has the training and testing accuracy of 68.82% and 61.48%, respectively. Random Forest has a training accuracy of 94.64% and a testing accuracy of 59.76%. Support Vector Machine has a training accuracy of 60.90% and a testing accuracy of 61.39%.
 Out of five models, I have considered Random Forest and K-Nearest for further refinements. Random Forest has high train accuracy and relatively lower test accuracy. This means the model is behaving differently for the training and testing sets. On the other hand, the K-Nearest Neighbor has both the training and testing accuracy in the same range. 
